@@ -29,6 +29,8 @@ The internet is flooded with content. Learners waste hours finding the right res
 
 ---
 
+"C:\Users\saishashank\Pictures\Screenshots\Screenshot 2025-07-21 050428.png"
+
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
