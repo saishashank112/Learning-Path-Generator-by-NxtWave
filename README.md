@@ -29,7 +29,8 @@ The internet is flooded with content. Learners waste hours finding the right res
 
 ---
 
-"C:\Users\saishashank\Pictures\Screenshots\Screenshot 2025-07-21 050428.png"
+<img width="1361" height="630" alt="Screenshot 2025-07-21 050428" src="https://github.com/user-attachments/assets/d7b94737-7f3b-4f8a-adaa-3add4e151e2c" />
+
 
 ## 🔧 Setup Instructions
 
